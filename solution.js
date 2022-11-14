@@ -51,5 +51,3 @@ function convertToRoman(num) {
 
 const res = convertToRoman(500);
 console.log(res);
-
-// console.log(Object.keys(romanNumerals).includes(90));
